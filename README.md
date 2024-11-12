@@ -2,8 +2,8 @@
 
 A new Flutter project.
 DEMO Video Link
-[https://drive.google.com/file/d/1THKI9ajJLL2qd9VwMFjsg0DAR9YxE0eM/view?usp=sharing](url)
-
+[https://drive.google.com/file/d/1THKI9ajJLL2qd9VwMFjsg0DAR9YxE0eM/view
+](url)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
